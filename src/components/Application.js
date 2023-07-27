@@ -169,7 +169,7 @@ const Application = () => {
               ))}
             </select>
 
-            <label for="accountNo">Account Number:</label>
+            <label htmlFor="accountNo">Account Number:</label>
             <input
               type="text"
               id="accountNo"
@@ -179,7 +179,7 @@ const Application = () => {
               required
             />
 
-            <label for="accountName">Account Name:</label>
+            <label htmlFor="accountName">Account Name:</label>
             <input
               type="text"
               id="accountName"
