@@ -91,7 +91,7 @@ const Application = () => {
       
         <div className="section_b">
           <div className="my_profile">
-            <img src="profile.png" alt="profile" />
+            <img src="profile.jpg" alt="profile" />
 
             <form className="first_form">
 

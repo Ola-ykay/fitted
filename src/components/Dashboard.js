@@ -36,7 +36,7 @@ const Dashboard = () => {
 
         <div className="dashboard_details">
           <div>
-            <img src="profile.png" alt="profile" className="dash_image" />
+            <img src="profile.jpg" alt="profile" className="dash_image" />
           </div>
           <div className="profile_cont">
             <h2> Samuel Oladokun</h2>
