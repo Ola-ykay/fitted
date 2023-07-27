@@ -69,15 +69,17 @@ width: 900px;
 }
 .my_profile img{
   position: relative;
-  left: -10%;
+  /* left: -10%; */
   top: -4%;
+ 
 }
 
 
 .first_form{
  display: flex;
   flex-direction: column;
- margin-top: -6%;
+  margin-top: 5%;
+ /* margin-top: -3%; */
 }
 .form_content{
   display: flex;
